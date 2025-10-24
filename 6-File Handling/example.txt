@@ -1,5 +1,2 @@
-Hello Python!
-this is a new line.Append operation taking place!
-First line 
-Second line 
-Third line
+Hello world
+This is a new line 

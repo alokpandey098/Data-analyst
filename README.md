@@ -1,3 +1,4 @@
-# Data-analyst
+# Data-Analyst-Bootcamp
 
-Topics 
+## Topics Covered 
+1. Python Basics

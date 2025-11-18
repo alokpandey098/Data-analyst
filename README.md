@@ -15,4 +15,4 @@
 6. File Handling
 7. Exception Handling
 8. Data Analysis With Python
-9. Statistics 
+9. Getting Started With Statistics 

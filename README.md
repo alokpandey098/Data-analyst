@@ -1,7 +1,7 @@
 # Data-Analyst-Bootcamp
 
 ## Intial Requirement
-* Create virtual environment
+* Create virtual environment using conda
 ``` conda create -p venv python=3.11  ```
 * Install important libraries
 ``` pip install -r requirement.txt ```

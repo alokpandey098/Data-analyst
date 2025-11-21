@@ -17,3 +17,4 @@
 8. Data Analysis With Python
 9. Getting Started With Statistics 
 10.Descriptive Statistics
+    - Measure of central tendency( mean,median,mode )

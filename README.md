@@ -17,4 +17,11 @@
 8. Data Analysis With Python
 9. Getting Started With Statistics 
 10.Descriptive Statistics
-    - Measure of central tendency( mean,median,mode )
+    - Measure of central tendency( mean,median,mode ) .
+    - Measure of dispersion(range,variance,std) .
+    - Random variable .
+    - Percentile and Quartile .
+    - 5-Number summary .
+    - Histogram and Skewness .
+    - Covariance and Correlation .
+11. Probability Distribution Function .

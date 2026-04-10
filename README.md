@@ -1,4 +1,19 @@
-# Data-Analyst-Bootcamp
+# 📊 Data Analyst Full Course (Beginner to Advanced)
+
+Welcome to my **Data Analyst Learning Repository** 🚀  
+This repository contains my complete journey of becoming a **job-ready Data Analyst**, covering all concepts from **basic to advanced** with hands-on practice.
+
+---
+
+## 📌 About This Repository
+
+- 📚 Structured learning from scratch
+- 🛠️ Hands-on practice with real datasets
+- 📈 Projects to apply concepts
+- 🧠 Notes for quick revision
+- 🎯 Goal: Become a **professional Data Analyst**
+
+---
 
 ## Intial Requirement
 * Create virtual environment using conda

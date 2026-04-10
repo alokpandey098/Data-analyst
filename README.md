@@ -176,3 +176,17 @@ This repository contains my complete journey of becoming a **job-ready Data Anal
 - Advanced analytics
 
 ---
+## 📬 Connect With Me
+
+- 📧 Email: pan.alokkr@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/alok-kumar087
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, please ⭐ star it and share it!
+
+---
+
+### 🚀 "Learning today, leading tomorrow!"
